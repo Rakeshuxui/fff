@@ -25,7 +25,7 @@ body{
 }
 .box:hover{
     opacity: 0;
-    transition-delay: 2s;
+    transition-delay: 0.7s;
 }
 .box img{
     width:255px;
